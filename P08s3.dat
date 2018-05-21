@@ -1,0 +1,19 @@
+Python 2.7.6 (default, Nov 23 2017, 15:49:48) 
+[GCC 4.8.4] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Pie t=0 , y=0.0 .
+Pie t=1 , y=15.095 .
+Pie t=2 , y=20.38 .
+Pie t=3 , y=15.855 .
+Pie t=4 , y=1.52 .
+Pie t=5 , y=-22.625 .
+Pie t=6 , y=-56.58 .
+Pie t=7 , y=-100.345 .
+Pie t=8 , y=-153.92 .
+Pie t=9 , y=-217.305 .
+Pie t=10 , y=-290.5 .
+Pie t=11 , y=-373.505 .
+Pie t=12 , y=-466.32 .
+>>> 
